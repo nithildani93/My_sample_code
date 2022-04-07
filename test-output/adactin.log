@@ -1,0 +1,257 @@
+2022-03-28 21:26:42,488 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] -------------------Execution Starting--------------------
+2022-03-28 21:26:42,519 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Starting  scenario
+2022-03-28 21:26:42,519 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] This scenario is to check if checkout date accepts valid input ADCTN-2
+2022-03-28 21:26:42,664 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
+2022-03-28 21:26:42,904 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] opening chrome Browser
+2022-03-28 21:27:28,650 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_username
+2022-03-28 21:27:28,839 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_password
+2022-03-28 21:27:31,551 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_clicks_the_submit_button
+2022-03-28 21:27:32,067 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the location
+2022-03-28 21:27:32,225 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the hotel
+2022-03-28 21:27:32,372 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the room type
+2022-03-28 21:27:32,528 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the no of rooms
+2022-03-28 21:27:32,787 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User enters checkin date as 10/10/2022
+2022-03-28 21:27:33,020 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User enters checkout date as 9/10/2022
+2022-03-28 21:27:33,712 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User clicks on search button
+2022-03-28 21:27:33,721 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User is able to see the search hotel page which should not be possible
+2022-03-28 21:27:34,524 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] -------------------Execution Starting--------------------
+2022-03-28 21:27:34,525 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Starting  scenario
+2022-03-28 21:27:34,525 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] This scenario is to check if checkin date accepts valid input ADCTN-3
+2022-03-28 21:27:35,302 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_username
+2022-03-28 21:27:35,415 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_password
+2022-03-28 21:27:36,120 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_clicks_the_submit_button
+2022-03-28 21:27:36,277 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the location
+2022-03-28 21:27:36,415 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the hotel
+2022-03-28 21:27:36,549 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the room type
+2022-03-28 21:27:36,671 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the no of rooms
+2022-03-28 21:27:36,825 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User enters checkin date as 15/1/2022
+2022-03-28 21:27:37,049 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User enters checkout date as 20/1/2022
+2022-03-28 21:27:37,477 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User clicks on search button
+2022-03-28 21:27:37,491 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User is able to see the search hotel page which should not be possible
+2022-03-28 21:27:37,740 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] -------------------Execution Starting--------------------
+2022-03-28 21:27:37,740 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Starting  scenario
+2022-03-28 21:27:37,741 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] This scenario is to check if correct hotel name is displayed in Select Hotel page ADCTN-4
+2022-03-28 21:27:38,293 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_username
+2022-03-28 21:27:38,405 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_password
+2022-03-28 21:27:39,092 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_clicks_the_submit_button
+2022-03-28 21:27:39,236 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the location
+2022-03-28 21:27:39,366 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the hotel
+2022-03-28 21:27:39,499 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the room type
+2022-03-28 21:27:39,622 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the no of rooms
+2022-03-28 21:27:39,777 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User enters checkin date as 25/4/2022
+2022-03-28 21:27:39,954 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User enters checkout date as 28/4/2022
+2022-03-28 21:27:40,402 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User clicks on search button
+2022-03-28 21:27:40,464 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User is able to see the Correct Hotel which was selected previously ADCTN-4 testcase passed
+2022-03-28 21:27:40,472 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] -------------------Execution Starting--------------------
+2022-03-28 21:27:40,473 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Starting  scenario
+2022-03-28 21:27:40,473 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] This scenario is to check if the user is able to see checkout date as entered in SearchHotel page ADCTN-5
+2022-03-28 21:27:41,030 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_username
+2022-03-28 21:27:41,145 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_password
+2022-03-28 21:27:41,840 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_clicks_the_submit_button
+2022-03-28 21:27:41,995 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the location
+2022-03-28 21:27:42,137 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the hotel
+2022-03-28 21:27:42,273 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the room type
+2022-03-28 21:27:42,398 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the no of rooms
+2022-03-28 21:27:42,549 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User enters checkin date as 20/4/2022
+2022-03-28 21:27:42,748 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User enters checkout date as 24/4/2022
+2022-03-28 21:27:43,190 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User clicks on search button
+2022-03-28 21:27:43,251 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] ADCTN-5 testcase passed: Checkout date is same as selected 
+2022-03-28 21:30:51,494 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] -------------------Execution Starting--------------------
+2022-03-28 21:30:51,500 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Starting  scenario
+2022-03-28 21:30:51,500 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] This scenario is to check if checkout date accepts valid input ADCTN-2
+2022-03-28 21:30:51,503 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
+2022-03-28 21:30:51,508 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] opening chrome Browser
+2022-03-28 21:31:09,876 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_username
+2022-03-28 21:31:10,026 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_password
+2022-03-28 21:31:12,116 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_clicks_the_submit_button
+2022-03-28 21:31:12,402 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the location
+2022-03-28 21:31:12,572 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the hotel
+2022-03-28 21:31:12,721 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the room type
+2022-03-28 21:31:12,860 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the no of rooms
+2022-03-28 21:31:13,088 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User enters checkin date as 10/10/2022
+2022-03-28 21:31:13,315 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User enters checkout date as 9/10/2022
+2022-03-28 21:31:14,133 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User clicks on search button
+2022-03-28 21:31:14,142 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User is able to see the search hotel page which should not be possible
+2022-03-28 21:31:15,219 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] -------------------Execution Starting--------------------
+2022-03-28 21:31:15,220 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Starting  scenario
+2022-03-28 21:31:15,220 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] This scenario is to check if checkin date accepts valid input ADCTN-3
+2022-03-28 21:31:15,241 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] -------------------Execution Starting--------------------
+2022-03-28 21:31:15,241 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Starting  scenario
+2022-03-28 21:31:15,242 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] This scenario is to check if correct hotel name is displayed in Select Hotel page ADCTN-4
+2022-03-28 21:31:15,257 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] -------------------Execution Starting--------------------
+2022-03-28 21:31:15,258 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Starting  scenario
+2022-03-28 21:31:15,258 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] This scenario is to check if the user is able to see checkout date as entered in SearchHotel page ADCTN-5
+2022-03-28 21:31:35,690 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] -------------------Execution Starting--------------------
+2022-03-28 21:31:35,696 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Starting  scenario
+2022-03-28 21:31:35,696 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] This scenario is to check if checkout date accepts valid input ADCTN-2
+2022-03-28 21:31:35,698 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
+2022-03-28 21:31:35,703 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] opening chrome Browser
+2022-03-28 21:31:57,354 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_username
+2022-03-28 21:31:57,489 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_password
+2022-03-28 21:32:03,073 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_clicks_the_submit_button
+2022-03-28 21:32:03,259 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the location
+2022-03-28 21:32:03,421 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the hotel
+2022-03-28 21:32:03,579 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the room type
+2022-03-28 21:32:03,727 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the no of rooms
+2022-03-28 21:32:03,900 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User enters checkin date as 10/10/2022
+2022-03-28 21:32:04,068 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User enters checkout date as 9/10/2022
+2022-03-28 21:32:04,890 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User clicks on search button
+2022-03-28 21:32:04,897 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User is able to see the search hotel page which should not be possible
+2022-03-28 21:32:05,316 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] -------------------Execution Starting--------------------
+2022-03-28 21:32:05,317 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Starting  scenario
+2022-03-28 21:32:05,317 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] This scenario is to check if checkin date accepts valid input ADCTN-3
+2022-03-28 21:32:06,111 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_username
+2022-03-28 21:32:06,231 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_password
+2022-03-28 21:32:06,936 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_clicks_the_submit_button
+2022-03-28 21:32:07,093 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the location
+2022-03-28 21:32:07,239 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the hotel
+2022-03-28 21:32:07,426 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the room type
+2022-03-28 21:32:07,583 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the no of rooms
+2022-03-28 21:32:08,167 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User enters checkin date as 15/1/2022
+2022-03-28 21:32:08,358 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User enters checkout date as 20/1/2022
+2022-03-28 21:32:08,816 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User clicks on search button
+2022-03-28 21:32:08,832 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User is able to see the search hotel page which should not be possible
+2022-03-28 21:32:09,085 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] -------------------Execution Starting--------------------
+2022-03-28 21:32:09,085 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Starting  scenario
+2022-03-28 21:32:09,085 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] This scenario is to check if correct hotel name is displayed in Select Hotel page ADCTN-4
+2022-03-28 21:32:09,623 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_username
+2022-03-28 21:32:09,759 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_password
+2022-03-28 21:32:10,718 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_clicks_the_submit_button
+2022-03-28 21:32:10,872 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the location
+2022-03-28 21:32:11,005 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the hotel
+2022-03-28 21:32:11,136 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the room type
+2022-03-28 21:32:11,258 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the no of rooms
+2022-03-28 21:32:11,427 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User enters checkin date as 25/4/2022
+2022-03-28 21:32:11,633 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User enters checkout date as 28/4/2022
+2022-03-28 21:32:12,108 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User clicks on search button
+2022-03-28 21:32:12,275 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User is able to see the Correct Hotel which was selected previously ADCTN-4 testcase passed
+2022-03-28 21:32:12,283 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] -------------------Execution Starting--------------------
+2022-03-28 21:32:12,283 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Starting  scenario
+2022-03-28 21:32:12,283 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] This scenario is to check if the user is able to see checkout date as entered in SearchHotel page ADCTN-5
+2022-03-28 21:32:12,847 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_username
+2022-03-28 21:32:13,097 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_password
+2022-03-28 21:32:13,813 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_clicks_the_submit_button
+2022-03-28 21:32:13,963 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the location
+2022-03-28 21:32:14,117 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the hotel
+2022-03-28 21:32:14,259 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the room type
+2022-03-28 21:32:14,382 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the no of rooms
+2022-03-28 21:32:14,539 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User enters checkin date as 20/4/2022
+2022-03-28 21:32:14,729 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User enters checkout date as 24/4/2022
+2022-03-28 21:32:15,428 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User clicks on search button
+2022-03-28 21:32:15,485 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] ADCTN-5 testcase passed: Checkout date is same as selected 
+2022-03-28 23:01:00,087 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] -------------------Execution Starting--------------------
+2022-03-28 23:01:00,102 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Starting  scenario
+2022-03-28 23:01:00,102 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] This scenario is to check if checkout date accepts valid input ADCTN-2
+2022-03-28 23:01:00,120 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
+2022-03-28 23:01:00,132 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] opening chrome Browser
+2022-03-28 23:02:12,026 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_username
+2022-03-28 23:02:12,290 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_password
+2022-03-28 23:02:17,815 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_clicks_the_submit_button
+2022-03-28 23:02:18,388 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the location
+2022-03-28 23:02:18,670 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the hotel
+2022-03-28 23:02:18,860 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the room type
+2022-03-28 23:02:19,228 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the no of rooms
+2022-03-28 23:02:20,205 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User enters checkin date as 10/10/2022
+2022-03-28 23:02:20,361 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User enters checkout date as 9/10/2022
+2022-03-28 23:02:21,799 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User clicks on search button
+2022-03-28 23:02:21,809 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User is able to see the search hotel page which should not be possible
+2022-03-28 23:02:23,116 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] -------------------Execution Starting--------------------
+2022-03-28 23:02:23,117 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Starting  scenario
+2022-03-28 23:02:23,117 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] This scenario is to check if checkin date accepts valid input ADCTN-3
+2022-03-28 23:02:23,789 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_username
+2022-03-28 23:02:23,930 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_password
+2022-03-28 23:02:24,645 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_clicks_the_submit_button
+2022-03-28 23:02:24,817 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the location
+2022-03-28 23:02:24,960 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the hotel
+2022-03-28 23:02:25,098 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the room type
+2022-03-28 23:02:25,231 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the no of rooms
+2022-03-28 23:02:25,402 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User enters checkin date as 15/1/2022
+2022-03-28 23:02:25,747 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User enters checkout date as 20/1/2022
+2022-03-28 23:02:26,495 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User clicks on search button
+2022-03-28 23:02:26,507 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User is able to see the search hotel page which should not be possible
+2022-03-28 23:02:26,793 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] -------------------Execution Starting--------------------
+2022-03-28 23:02:26,793 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Starting  scenario
+2022-03-28 23:02:26,794 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] This scenario is to check if correct hotel name is displayed in Select Hotel page ADCTN-4
+2022-03-28 23:02:27,383 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_username
+2022-03-28 23:02:27,491 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_password
+2022-03-28 23:02:28,191 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_clicks_the_submit_button
+2022-03-28 23:02:28,338 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the location
+2022-03-28 23:02:28,468 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the hotel
+2022-03-28 23:02:28,601 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the room type
+2022-03-28 23:02:28,729 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the no of rooms
+2022-03-28 23:02:28,883 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User enters checkin date as 25/4/2022
+2022-03-28 23:02:29,307 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User enters checkout date as 28/4/2022
+2022-03-28 23:02:29,747 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User clicks on search button
+2022-03-28 23:02:29,840 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User is able to see the Correct Hotel which was selected previously ADCTN-4 testcase passed
+2022-03-28 23:02:29,848 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] -------------------Execution Starting--------------------
+2022-03-28 23:02:29,849 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Starting  scenario
+2022-03-28 23:02:29,849 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] This scenario is to check if the user is able to see checkout date as entered in SearchHotel page ADCTN-5
+2022-03-28 23:02:30,396 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_username
+2022-03-28 23:02:30,546 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_password
+2022-03-28 23:02:31,806 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_clicks_the_submit_button
+2022-03-28 23:02:31,941 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the location
+2022-03-28 23:02:32,071 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the hotel
+2022-03-28 23:02:32,207 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the room type
+2022-03-28 23:02:32,327 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the no of rooms
+2022-03-28 23:02:32,498 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User enters checkin date as 20/4/2022
+2022-03-28 23:02:32,777 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User enters checkout date as 24/4/2022
+2022-03-28 23:02:33,414 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User clicks on search button
+2022-03-28 23:02:33,477 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] ADCTN-5 testcase passed: Checkout date is same as selected 
+2022-03-28 23:10:49,966 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] -------------------Execution Starting--------------------
+2022-03-28 23:10:49,988 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Starting  scenario
+2022-03-28 23:10:49,988 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] This scenario is to check if checkout date accepts valid input ADCTN-2
+2022-03-28 23:10:50,021 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
+2022-03-28 23:10:50,041 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] opening chrome Browser
+2022-03-28 23:11:18,197 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_username
+2022-03-28 23:11:18,649 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_password
+2022-03-28 23:11:21,518 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_clicks_the_submit_button
+2022-03-28 23:11:21,961 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the location
+2022-03-28 23:11:22,146 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the hotel
+2022-03-28 23:11:22,297 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the room type
+2022-03-28 23:11:22,454 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the no of rooms
+2022-03-28 23:11:22,869 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User enters checkin date as 10/10/2022
+2022-03-28 23:11:23,034 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User enters checkout date as 9/10/2022
+2022-03-28 23:11:23,832 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User clicks on search button
+2022-03-28 23:11:23,847 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User is able to see the search hotel page which should not be possible
+2022-03-28 23:11:24,544 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] -------------------Execution Starting--------------------
+2022-03-28 23:11:24,544 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Starting  scenario
+2022-03-28 23:11:24,545 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] This scenario is to check if checkin date accepts valid input ADCTN-3
+2022-03-28 23:11:25,086 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_username
+2022-03-28 23:11:25,199 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_password
+2022-03-28 23:11:25,919 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_clicks_the_submit_button
+2022-03-28 23:11:26,070 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the location
+2022-03-28 23:11:26,203 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the hotel
+2022-03-28 23:11:26,333 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the room type
+2022-03-28 23:11:26,456 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the no of rooms
+2022-03-28 23:11:26,612 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User enters checkin date as 15/1/2022
+2022-03-28 23:11:26,768 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User enters checkout date as 20/1/2022
+2022-03-28 23:11:27,228 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User clicks on search button
+2022-03-28 23:11:27,250 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User is able to see the search hotel page which should not be possible
+2022-03-28 23:11:27,506 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] -------------------Execution Starting--------------------
+2022-03-28 23:11:27,506 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Starting  scenario
+2022-03-28 23:11:27,506 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] This scenario is to check if correct hotel name is displayed in Select Hotel page ADCTN-4
+2022-03-28 23:11:28,041 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_username
+2022-03-28 23:11:28,150 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_password
+2022-03-28 23:11:28,849 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_clicks_the_submit_button
+2022-03-28 23:11:29,032 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the location
+2022-03-28 23:11:29,162 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the hotel
+2022-03-28 23:11:29,292 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the room type
+2022-03-28 23:11:29,419 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the no of rooms
+2022-03-28 23:11:29,572 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User enters checkin date as 25/4/2022
+2022-03-28 23:11:29,735 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User enters checkout date as 28/4/2022
+2022-03-28 23:11:30,166 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User clicks on search button
+2022-03-28 23:11:30,257 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User is able to see the Correct Hotel which was selected previously ADCTN-4 testcase passed
+2022-03-28 23:11:30,275 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] -------------------Execution Starting--------------------
+2022-03-28 23:11:30,275 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Starting  scenario
+2022-03-28 23:11:30,276 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] This scenario is to check if the user is able to see checkout date as entered in SearchHotel page ADCTN-5
+2022-03-28 23:11:30,816 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_username
+2022-03-28 23:11:30,946 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_password
+2022-03-28 23:11:31,909 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_clicks_the_submit_button
+2022-03-28 23:11:32,063 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the location
+2022-03-28 23:11:32,201 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the hotel
+2022-03-28 23:11:32,333 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the room type
+2022-03-28 23:11:32,474 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the no of rooms
+2022-03-28 23:11:32,673 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User enters checkin date as 20/4/2022
+2022-03-28 23:11:32,839 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User enters checkout date as 24/4/2022
+2022-03-28 23:11:33,285 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User clicks on search button
+2022-03-28 23:11:33,339 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] ADCTN-5 testcase passed: Checkout date is same as selected 
